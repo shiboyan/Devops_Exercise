@@ -1,0 +1,6 @@
+---
+app_user: "ubuntu"
+http_host: "54.153.207.110"
+http_conf: "54.153.207.110.conf"
+http_port: "80"
+disable_default: true
