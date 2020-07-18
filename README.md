@@ -46,9 +46,11 @@ $ terraform apply -var-file=aws-demo.tfvars
 
 ## PART Two: Terraform 
 This Terraform code create a VM in AWS cloud with apache webserver installed on it . The webserver run behind a Load Balancer(ELB). 
+
 ####Details please open Terraform folder(terraform_webserver), see README.md
 
 
 ## PART Three: Ansible 
+
 ####Details please open ansible folder(apache_runbook), see README.md
 
