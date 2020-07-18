@@ -33,10 +33,6 @@ $sh print_aws_ip_ranges.sh eu-west-1
 Will output all the IP ranges assigned to the region, and the total ip ranges numbers
 
 ![Kiku](screenshot/ipranage.png)
-```
-
-
-
 
 
 ## PART Two: Terraform 
