@@ -32,15 +32,10 @@ $sh print_aws_ip_ranges.sh eu-west-1
 	     
 Will output all the IP ranges assigned to the region, and the total ip ranges numbers
 
-
+![Kiku](screenshot/ipranage.png)
 ```
 
-```bash
-$ terraform init
-$ terraform validate -var-file=aws-demo.tfvars
-$ terraform plan -var-file=aws-demo.tfvars
-$ terraform apply -var-file=aws-demo.tfvars
-```
+
 
 
 
